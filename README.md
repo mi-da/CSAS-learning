@@ -3,4 +3,4 @@ Collective self-adaptive systems (CSAS) are distributed and interconnected syste
 
 # Visualization
 
-![Visualization](http://imgur.com/a/9aNDW4A)
+![Visualization](https://imgur.com/a/9aNDW4A)
