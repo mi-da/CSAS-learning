@@ -15,7 +15,8 @@ The goal our study is understanding the state of practice of how learning is emp
 Our investigation is made by means of a systematic literature review of 52 related research papers out of 215 candidates.
 
 # Data
-**Replication Protocol**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to our reviewing process protocol.
+**Replication package**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to our reviewing process protocol.
+
 **Collected Data**: With the following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) it is possible to access to data collected in a Google doc.
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
