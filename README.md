@@ -17,7 +17,7 @@ Our investigation is made by means of a systematic literature review of 52 relat
 # Data
 **Replication package**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to our reviewing process protocol.
 
-**Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to analysed data collected in a Google doc.
+**Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to the analysed data collected in a Google doc.
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
 **NOTE:** Papers are identified by a unique number in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
