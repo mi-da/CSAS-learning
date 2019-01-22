@@ -3,15 +3,13 @@ Collective self-adaptive systems (CSAS) are distributed and interconnected syste
 
 # Rsearch Questions
 
-- What are the characteristics of the described CSAS?  
-- What is the purpose of learning?  
-- Why learning is adopted?  
-- Which are the selected learning techniques?
-- When are learning models updated? 
-- What are the triggers for updating learning models?
+-**RQ1**: What are the characteristics of the described CSAS?  
+-**RQ2**: What is the purpose of learning?  
+-**RQ3**: Which are the selected learning techniques?
+-**RQ4**: What are the triggers for updating learning models?
 
 ## Domain
-![Visualization](https://i.imgur.com/nJDosN8.png)
+![Visualization](https://i.imgur.com/ohIsn9i.png)
 
 ## Domain - Agents - Learning Task(s) - Emergent Behaviour - Paper
 ![Visualization](https://i.imgur.com/nJDosN8.png)
