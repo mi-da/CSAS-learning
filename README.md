@@ -3,4 +3,4 @@ Collective self-adaptive systems (CSAS) are distributed and interconnected syste
 
 # Framework
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://drive.google.com/file/d/10H2wya9U67E01fdW6X48hLK5-g4mCFEZ/view?usp=sharing)
