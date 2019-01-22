@@ -15,6 +15,7 @@ The goal our study is understanding the state of practice of how learning is emp
 Our investigation is made by means of a systematic literature review of 52 related research papers out of 215 candidates
 
 ## Data
+[DATA](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
 
