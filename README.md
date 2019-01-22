@@ -18,5 +18,5 @@ Our investigation is made by means of a systematic literature review of 52 relat
 With the following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) it is possible to access to the collected.
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
-Papers are identified by a unique number in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
+**NOTE:** Papers are identified by a unique number in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
 
