@@ -12,10 +12,10 @@ The goal our study is understanding the state of practice of how learning is emp
 - **RQ4**: What are the triggers for updating learning models?
 
 # Research Method
-Our investigation is made by means of a systematic literature review of 52 related research papers out of 215 candidates
+Our investigation is made by means of a systematic literature review of 52 related research papers out of 215 candidates.
 
 ## Data
-With the following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) it is possible to access to the collected.
+With the following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) it is possible to access to the collected data.
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
 **NOTE:** Papers are identified by a unique number in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
