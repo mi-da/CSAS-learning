@@ -2,7 +2,7 @@
 **Collective self-adaptive systems (CSAS)** are distributed and interconnected systems composed of multiple agents that can perform complex tasks. By providing individual agents with learning capabilities, CSAS can cope with challenges related to distributed sensing and decision-making, and operate in uncertain environments. Although learning has been explored in many CSAS applications, selecting suitable learning techniques and models remains a significant challenge.
 
 # Goal
-The goal our study is understanding the state of practice of how learning is employed in CSAS. To this end, we investigate related research that involves the development of CSAS that use learning models to enable agents to adapt their behaviour when encountering scenarios unanticipated at design time.
+The goal of our systematic literature review is to understand the state of practice on how learning is employed in CSAS. To this end, we investigate related research that involve the development of CSAS employing learning techniques. We are particularly interested in the studies employing learning in CSAS to enable agents to adapt their behavior when encountering scenarios unanticipated at design time.
 
 # Research Questions
 
@@ -12,7 +12,7 @@ The goal our study is understanding the state of practice of how learning is emp
 - **RQ4**: What are the triggers for updating learning models?
 
 # Research Method
-Our investigation is made by means of a systematic literature review of 52 related research papers out of 215 candidates.
+Our investigation is made by means of a systematic literature review (SLR) of 52 related research papers out of 215 preliminary candidates.
 
 # Data
 **Replication package**: The following [link](https://drive.google.com/file/d/1WGmIydk4zSSBSF749qUH1CcSujeSzGsb/view?usp=sharing) points to the replication document.
