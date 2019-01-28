@@ -17,7 +17,7 @@ Our investigation is made by means of a systematic literature review (SLR) of 52
 # Data
 **Replication package**: The following [link](https://drive.google.com/open?id=1tkX0cTYFzkTWq-KWRimPkrowaW_ZvoRs) points to the replication document.
 
-**Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing) points to the analysed data collected in a Google sheet.
+**Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=625824814) points to the analysed data collected in a Google sheet.
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
