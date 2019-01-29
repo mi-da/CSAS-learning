@@ -22,6 +22,6 @@ Our investigation is made by means of a systematic literature review (SLR) of 52
 # Results
 
 
-![Visualization](images/domain to paper graph.png)
+![Visualization](CSAS-learning/images/domain to paper graph.png)
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
 
