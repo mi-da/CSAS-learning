@@ -14,10 +14,13 @@ The goal of our systematic literature review is to understand the state of pract
 # Research Method
 Our investigation is made by means of a systematic literature review (SLR) of 52 related research papers out of 215 preliminary candidates.
 
-# Data
+# Documents
 **Replication package**: The following [link](https://drive.google.com/open?id=1tkX0cTYFzkTWq-KWRimPkrowaW_ZvoRs) points to the replication document.
 
 **Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669) points to the analysed literature and corresponding data collected in a Google sheet.
+
+# Results
+
 
 ![Visualization](https://i.imgur.com/nJDosN8.png)
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
