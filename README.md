@@ -24,6 +24,8 @@ Based on the analysis of the selected studies, we report here our findings.
 
 ## Application Domain
 
+[[Fig2.ApplicationDomain.png | height = 100px ]]
+
 <img src="Fig2.ApplicationDomain.png" width="48">
 
 ### From Domain to papers
