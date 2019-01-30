@@ -28,5 +28,5 @@ Based on the analysis of the selected studies, we report here our findings.
 ### From Domain to papers
 ![Vis](images/domaintopaper.png)
 
-**NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
+**NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669)
 
