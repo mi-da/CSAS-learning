@@ -20,7 +20,12 @@ Our investigation is made by means of a systematic literature review (SLR) of 52
 **Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669) points to the analysed literature and corresponding data collected in a Google sheet.
 
 # Results
+Based on the analysis of the selected studies, we report here our findings.
 
+## Application Domain
+![Domain](images/Fig2.ApplicationDomain.png)
+
+### From Domain to papers
 ![Vis](images/domaintopaper.png)
 
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1_wKl2ya2Cg2ei4a-fgWrgE6m41ZAWtfEPuYgu7y6qpc/edit?usp=sharing)
