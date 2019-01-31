@@ -76,6 +76,10 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 
 ## A 3D Framework of CSAS: Autonomy, Knowledge Access, and Behaviour
 
+<p align="center">
+  <img height="180" src='images/Fig3.3d.png'/>
+</p>
+
 * We define CSAS **autonomy** to be the level of self-authorisation provided to agents within the collective. An agent is autonomous when there is no external or internal (i.e., by other agents) control over its behaviour.
 
 * Our analysis reveals that some agent-based models explicitly exchange learning information with each other. We call this concept **knowledge access**.
@@ -84,10 +88,6 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 
 <p align="center">
   <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
-</p>
-
-<p align="center">
-  <img height="180" src='images/Fig3.3d.png'/>
 </p>
 
 The results for these 3 dimensions are reported in the following table. These characteristics are the basis for a proposed framework composed of three dimensions. These dimensions provide a clear understanding of the assumptions that can be made about agents that are part of CSAS, and allow making design decisions on how agents should learn. scatter plot indicating how the CSAS applications are spread over the dimensions of the proposed 3D framework. Agents are typically considered selfish while varying levels of knowledge access are commonly explored. There is, however, limited work exploring agents with restricted autonomy. We only found six studies, located in corners, where agents have restricted autonomy. There is no study exploring selfish agents with maximal knowledge access or altruistic agents with minimal knowledge access. The lack of research in these areas of our 3D framework is interesting since these settings can naturally occur in realworld applications
