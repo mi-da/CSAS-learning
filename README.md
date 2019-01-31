@@ -69,7 +69,7 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 </p>
 
 
-## Relation between Domain-Agents-Learning Task-Emengent Behaviours-Papers
+## Relation between Domain-Agents-Learning Task-Emergent Behaviour-Paper
 ![Vis](images/domaintopaper.png)
 
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669)
