@@ -63,7 +63,7 @@ are the second most explored domain. Other applications include traffic scenario
 The results for these 3 dimensions are reported in the following table.
 
 <p align="center">
-  <img height="300" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+  <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
 ## Learning Purpose
@@ -79,7 +79,7 @@ Reinforcement Learning (RL) is a widely used technique in CSAS. The results from
 ## Triggers for Model Learning and Refinement
 
 <p align="center">
-  <img height="220" src='images/Tab5.LearningTriggers.png'/>
+  <img height="250" src='images/Tab5.LearningTriggers.png'/>
 </p>
 
 
