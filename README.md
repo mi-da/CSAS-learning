@@ -24,7 +24,7 @@ Based on the analysis of the selected studies, we report here our findings.
 
 ## Application Domain
 
-![Domain](images/fig2-applicationdomain-50%.png)
+![Domain](images/ig2-applicationdomain-50%.png)
 
 ### From Domain to papers
 ![Vis](images/domaintopaper.png)
