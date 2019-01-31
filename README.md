@@ -80,7 +80,7 @@ Reinforcement Learning (RL) is a widely used technique in CSAS. The results from
   <img height="220" src='images/Tab4.LearningTechnique.png'/>
 </p>
 
-Our analysis of the selected CSAS studies targeted the identification of when gathered knowledge is initially exploited and when learning models are updated.
+Our analysis of the selected CSAS studies targeted the identification of when gathered knowledge is initially exploited and when learning models are updated. The trigger for instantiating the initial learning model typically occurs upon launching a new learning task, whereas event-based triggers are primarily used for updating the models. However, we could not find an optimal class of event-based triggers capable of improving model accuracy and driving efficient achievement of the CSAS objectives.
 
 <p align="center">
   <img height="250" src='images/Tab5.LearningTriggers.png'/>
