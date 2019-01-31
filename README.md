@@ -6,11 +6,7 @@ The goal of our systematic literature review is to understand the state of pract
 
 # Research Questions
 
-- **RQ1**: What are the characteristics of the described CSAS?  
-- **RQ2**: What is the purpose of learning?  
-- **RQ3**: Which are the selected learning techniques?
-- **RQ4**: What are the triggers for updating learning models?
-
+- **RQ1**: What are the characteristics of the described CSAS?
   - Application Domain (**RQ1**): classify the domain of the
 developed CSAS application;
   - Agents (**RQ1**): identify agents within the collective with
@@ -19,16 +15,18 @@ learning abilities;
 or are supervised by external entities;
   - Knowledge Access (**RQ1**): assess the amount of information
 provided to an agent by its peers;
-- Behaviour (**RQ1**): evaluate how an agent behaves with
+  - Behaviour (**RQ1**): evaluate how an agent behaves with
 respect to other agents’ behaviour;
-- Learning Tasks (**RQ2**): establish the objectives of learning
+- **RQ2**: What is the purpose of learning?
+  - Learning Tasks (**RQ2**): establish the objectives of learning
 by an agent and the collective;
-- Emergent Behaviour (**RQ2****): determine which characteristics
-emerge from agents’ interactions and are observed
-as outcomes of agents’ behaviour;
-- Learning Technique (**RQ3**): classify the techniques used
+  - Emergent Behaviour (**RQ2****): determine which characteristics
+emerge from agents’ interactions and are observed as outcomes of agents’ behaviour;
+- **RQ3**: Which are the selected learning techniques?
+  - Learning Technique (**RQ3**): classify the techniques used
 by agents to enable learning;
-- Learning Trigger (**RQ4**): identify the triggers driving
+- **RQ4**: What are the triggers for updating learning models?
+  - Learning Trigger (**RQ4**): identify the triggers driving
 knowledge processing and refinement of learning models.
 
 # Research Method
