@@ -76,6 +76,13 @@ Reinforcement Learning (RL) is a widely used technique in CSAS. The results from
   <img height="200" src='images/Tab4.LearningTechnique.png'/>
 </p>
 
+## Triggers for Model Learning and Refinement
+
+<p align="center">
+  <img height="200" src='images/Tab5.LearningTriggers.png'/>
+</p>
+
+
 ## From Domain to papers
 ![Vis](images/domaintopaper.png)
 
