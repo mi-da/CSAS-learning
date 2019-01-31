@@ -105,6 +105,10 @@ environmental and internal observations as inputs and generates an action (leadi
   <img height="150" src='images/Fig4.learningP2-2.png'/>
 </p>
 
+1. Depending on the level of **autonomy**, the agent’s decisions may be overruled, changed, or blocked by external intervention; 
+2. Depending on the level of **knowledge access**, information from other agents may be available in addition to the local view of internal and environmental information;
+3. Depending on the **behaviour** type, the definition of a utility function Ux may vary between favouring agent and/or system-wide utility.
+
 
 ## Conclusion
 Our systematic review of learning-enabled CSAS shows that behavioural and collaboration modalities are perplexed when
