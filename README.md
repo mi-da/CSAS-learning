@@ -66,11 +66,10 @@ The results for these 3 dimensions are reported in the following table.
   <img height="300" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
+## Learning Purpose
+We identified two main groups regarding the relation between learning tasks and emergent behaviour. One group concerns studies that associate the emergent behaviour to the exact anticipated learning task of the collective. The learning task in these studies is either a collection of individual non-collaborative tasks (e.g., each soccer agent scoring a goal on their own [27]) or a system-wide collaboration among the agents (e.g., smart sensors collaborating to patrol an area successful [37]). In the other group of studies, collaboration between the agents emerges to a different behaviour than the anticipated learning task (e.g., [42]–[44]). These studies often define learning tasks as individual goals for the agents and agents are not aware of any implicit collaboration among them. As a result, a system-wide collaboration emerges.
 
-
-
-
-### From Domain to papers
+## From Domain to papers
 ![Vis](images/domaintopaper.png)
 
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669)
