@@ -23,6 +23,9 @@ Our investigation is made by means of a systematic literature review (SLR) of 52
 Based on the analysis of the selected studies, we report here our findings.
 
 ## Application Domain
+<center><img src='images/applicationDomain.png'></center>
+
+
 ![Domain](images/applicationDomain.png)
 
 ### From Domain to papers
