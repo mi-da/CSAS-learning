@@ -17,14 +17,17 @@ or are supervised by external entities;
 provided to an agent by its peers;
   - Behaviour (**RQ1**): evaluate how an agent behaves with
 respect to other agents’ behaviour;
+
 - **RQ2**: What is the purpose of learning?
   - Learning Tasks (**RQ2**): establish the objectives of learning
 by an agent and the collective;
   - Emergent Behaviour (**RQ2****): determine which characteristics
 emerge from agents’ interactions and are observed as outcomes of agents’ behaviour;
+
 - **RQ3**: Which are the selected learning techniques?
   - Learning Technique (**RQ3**): classify the techniques used
 by agents to enable learning;
+
 - **RQ4**: What are the triggers for updating learning models?
   - Learning Trigger (**RQ4**): identify the triggers driving
 knowledge processing and refinement of learning models.
