@@ -63,7 +63,7 @@ are the second most explored domain. Other applications include traffic scenario
 The results for these 3 dimensions are reported in the following table.
 
 <p align="center">
-  <img height="200" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+  <img height="300" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
 ## Learning Purpose
@@ -72,7 +72,7 @@ We identified two main groups regarding the relation between learning tasks and 
 ## Learning Techniques
 
 <p align="center">
-  <img height="300" src='images/Tab4.LearningTechnique.png'/>
+  <img height="200" src='images/Tab4.LearningTechnique.png'/>
 </p>
 
 ## From Domain to papers
