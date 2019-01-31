@@ -11,6 +11,26 @@ The goal of our systematic literature review is to understand the state of pract
 - **RQ3**: Which are the selected learning techniques?
 - **RQ4**: What are the triggers for updating learning models?
 
+- Application Domain (**RQ1**): classify the domain of the
+developed CSAS application;
+- Agents (**RQ1**): identify agents within the collective with
+learning abilities;
+- Autonomy (**RQ1**): determine whether agents act autonomously
+or are supervised by external entities;
+- Knowledge Access (**RQ1**): assess the amount of information
+provided to an agent by its peers;
+- Behaviour (**RQ1**): evaluate how an agent behaves with
+respect to other agents’ behaviour;
+- Learning Tasks (**RQ2**): establish the objectives of learning
+by an agent and the collective;
+- Emergent Behaviour (**RQ2****): determine which characteristics
+emerge from agents’ interactions and are observed
+as outcomes of agents’ behaviour;
+- Learning Technique (**RQ3**): classify the techniques used
+by agents to enable learning;
+- Learning Trigger (**RQ4**): identify the triggers driving
+knowledge processing and refinement of learning models.
+
 # Research Method
 Our investigation is made by means of a systematic literature review (SLR) of 52 related research papers out of 215 preliminary candidates.
 
