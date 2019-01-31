@@ -52,24 +52,6 @@ are the second most explored domain. Other applications include traffic scenario
   <img height="230" src='images/Fig2.ApplicationDomain.png'/>
 </p>
 
-## Autonomy, Knowledge Access, and Behaviour
-
-* We define CSAS **autonomy** to be the level of self-authorisation provided to agents within the collective. An agent is autonomous when there is no external or internal (i.e., by other agents) control over its behaviour.
-
-* Our analysis reveals that some agent-based models explicitly exchange learning information with each other. We call this concept **knowledge access**.
-
-* The **behaviour** of agents within a CSAS indicates whether an agent has the objective to maximise its own utility, i.e., it is selfish, to maximise the CSAS utility, i.e., it is altruistic, or adopts an intermediate role.
-
-The results for these 3 dimensions are reported in the following table.
-
-<p align="center">
-  <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
-</p>
-
-<p align="center">
-  <img height="330" src='images/Fig5.3dpapers-2.png'/>
-</p>
-
 ## Learning Purpose
 We identified two main groups regarding the relation between learning tasks and emergent behaviour. One group concerns studies that associate the emergent behaviour to the exact anticipated learning task of the collective. The learning task in these studies is either a collection of individual non-collaborative tasks (e.g., each soccer agent scoring a goal on their own) or a system-wide collaboration among the agents (e.g., smart sensors collaborating to patrol an area successful). In the other group of studies, collaboration between the agents emerges to a different behaviour than the anticipated learning task. These studies often define learning tasks as individual goals for the agents and agents are not aware of any implicit collaboration among them. As a result, a system-wide collaboration emerges.
 
@@ -87,8 +69,26 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 </p>
 
 
-## From Domain to papers
+## Relation between Domain-Agents-Learning Task-Emengent Behaviours-Papers
 ![Vis](images/domaintopaper.png)
 
 **NOTE:** Papers are identified by unique numbers in our [literature review](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669)
+
+## A 3D Framework of CSAS: Autonomy, Knowledge Access, and Behaviour
+
+* We define CSAS **autonomy** to be the level of self-authorisation provided to agents within the collective. An agent is autonomous when there is no external or internal (i.e., by other agents) control over its behaviour.
+
+* Our analysis reveals that some agent-based models explicitly exchange learning information with each other. We call this concept **knowledge access**.
+
+* The **behaviour** of agents within a CSAS indicates whether an agent has the objective to maximise its own utility, i.e., it is selfish, to maximise the CSAS utility, i.e., it is altruistic, or adopts an intermediate role.
+
+The results for these 3 dimensions are reported in the following table.
+
+<p align="center">
+  <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+</p>
+
+<p align="center">
+  <img height="330" src='images/Fig5.3dpapers-2.png'/>
+</p>
 
