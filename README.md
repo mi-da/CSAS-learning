@@ -49,7 +49,7 @@ This is inline with the increasing interest in CPS, especially in the area of se
 are the second most explored domain. Other applications include traffic scenarios, cooperative games, and market applications. Finally, four studies describe the solution to learning in CSAS using abstract multi-agent organisational models but do not report any concrete applications.
 
 <p align="center">
-  <img height="200" src='images/Fig2.ApplicationDomain.png'/>
+  <img height="230" src='images/Fig2.ApplicationDomain.png'/>
 </p>
 
 ## Autonomy, Knowledge Access, and Behaviour
