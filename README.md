@@ -21,7 +21,7 @@ respect to other agents’ behaviour;
 - **RQ2**: What is the purpose of learning?
   - Learning Tasks (**RQ2**): establish the objectives of learning
 by an agent and the collective;
-  - Emergent Behaviour (**RQ2****): determine which characteristics
+  - Emergent Behaviour (**RQ2**): determine which characteristics
 emerge from agents’ interactions and are observed as outcomes of agents’ behaviour;
 
 - **RQ3**: Which are the selected learning techniques?
