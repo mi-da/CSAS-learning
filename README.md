@@ -102,7 +102,7 @@ Learning-based CSAS agent is designed to improve its ability to fulfil the learn
 environmental and internal observations as inputs and generates an action (leading to CSAS reconfiguration) as output. Internally, a utility function Ux is employed to characterise the desirability of the agent’s behaviour. Furthermore, the learning element contains a model (e.g., a classifier) and an optimisation (or controller) component that decides about the actions optimising the employed utility function.
 
 <p align="center">
-  <img height="330" src='images/Fig4.learningP2-2.png'/>
+  <img height="150" src='images/Fig4.learningP2-2.png'/>
 </p>
 
 
