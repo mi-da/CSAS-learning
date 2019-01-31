@@ -73,14 +73,14 @@ The results for these 3 dimensions are reported in the following table.
 ## Learning Purpose
 We identified two main groups regarding the relation between learning tasks and emergent behaviour. One group concerns studies that associate the emergent behaviour to the exact anticipated learning task of the collective. The learning task in these studies is either a collection of individual non-collaborative tasks (e.g., each soccer agent scoring a goal on their own) or a system-wide collaboration among the agents (e.g., smart sensors collaborating to patrol an area successful). In the other group of studies, collaboration between the agents emerges to a different behaviour than the anticipated learning task. These studies often define learning tasks as individual goals for the agents and agents are not aware of any implicit collaboration among them. As a result, a system-wide collaboration emerges.
 
-## Learning Techniques
+## Learning Techniques and Triggers
 Reinforcement Learning (RL) is a widely used technique in CSAS. The results from our review highlight that ~60% of the selected studies use RL. The wide adoption of RL in CSAS lies in its simple and straightforward resemblance between the actions and rewards of its theoretical model and the behaviour of agents in the employed application domains. Most importantly, RL techniques (e.g., Q-learning, W-learning) do not necessarily need a model of the environment and can learn directly from raw experience. Game Theory (GT) and Supervised Learning (SL) techniques are used in ~10% of the reviewed studies. Moreover, that ~8% of the studies uses probabilistic approaches, while two other studies use applied logic and evolutionary processes. Finally, swarm systems are used for collective self-organisation in two studies.
 
 <p align="center">
   <img height="220" src='images/Tab4.LearningTechnique.png'/>
 </p>
 
-## Triggers for Model Learning and Refinement
+Our analysis of the selected CSAS studies targeted the identification of when gathered knowledge is initially exploited and when learning models are updated.
 
 <p align="center">
   <img height="250" src='images/Tab5.LearningTriggers.png'/>
