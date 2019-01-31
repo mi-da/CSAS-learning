@@ -96,6 +96,16 @@ These characteristics are the basis for a proposed framework composed of three d
   <img height="330" src='images/Fig5.3dpapers-2.png'/>
 </p>
 
+## Canonical View of the Learning Process of a CSAS Agent
+
+Learning-based CSAS agent is designed to improve its ability to fulfil the learning task. The learning element takes
+environmental and internal observations as inputs and generates an action (leading to CSAS reconfiguration) as output. Internally, a utility function Ux is employed to characterise the desirability of the agent’s behaviour. Furthermore, the learning element contains a model (e.g., a classifier) and an optimisation (or controller) component that decides about the actions optimising the employed utility function.
+
+<p align="center">
+  <img height="330" src='images/Fig4.learningP2-2.png'/>
+</p>
+
+
 ## Conclusion
 Our systematic review of learning-enabled CSAS shows that behavioural and collaboration modalities are perplexed when
 learning is required. This reveals that learning tasks, emergent behaviour, learning techniques and triggers play a key role when designing learning-enabled CSAS. Minimal knowledge access, high autonomy and the prevalence of reinforcement
