@@ -77,7 +77,7 @@ We identified two main groups regarding the relation between learning tasks and 
 Reinforcement Learning (RL) is a widely used technique in CSAS. The results from our review highlight that ~60% of the selected studies use RL. The wide adoption of RL in CSAS lies in its simple and straightforward resemblance between the actions and rewards of its theoretical model and the behaviour of agents in the employed application domains. Most importantly, RL techniques (e.g., Q-learning, W-learning) do not necessarily need a model of the environment and can learn directly from raw experience. Game Theory (GT) and Supervised Learning (SL) techniques are used in ~10% of the reviewed studies. Moreover, that ~8% of the studies uses probabilistic approaches, while two other studies use applied logic and evolutionary processes. Finally, swarm systems are used for collective self-organisation in two studies.
 
 <p align="center">
-  <img height="200" src='images/Tab4.LearningTechnique.png'/>
+  <img height="220" src='images/Tab4.LearningTechnique.png'/>
 </p>
 
 ## Triggers for Model Learning and Refinement
