@@ -96,3 +96,7 @@ The results for these 3 dimensions are reported in the following table. These ch
   <img height="330" src='images/Fig5.3dpapers-2.png'/>
 </p>
 
+## Conclusion
+Our systematic review of learning-enabled CSAS shows that behavioural and collaboration modalities are perplexed when
+learning is required. This reveals that learning tasks, emergent behaviour, learning techniques and triggers play a key role when designing learning-enabled CSAS. Minimal knowledge access, high autonomy and the prevalence of reinforcement
+learning are some key characteristics that we observe, together with their use in CPS. Based on these findings, we introduce a 3D framework capturing the characteristics of learning-enabled CSAS. Given the dimensions of autonomy, knowledge access and behaviour, we present a canonical view of the learning process with which applications and learning implications can be classified, and discuss how these implications are different to those in centralised-controlled CSAS. Open challenges such as the design of collaborative learning techniques, privacy and accountability in open environments without trusted third parties, the resilience, fault-tolerance and provision of assurances of learning in distributed environments are highlighted as opportunities for future work.
