@@ -11,11 +11,11 @@ The goal of our systematic literature review is to understand the state of pract
 - **RQ3**: Which are the selected learning techniques?
 - **RQ4**: What are the triggers for updating learning models?
 
-- Application Domain (**RQ1**): classify the domain of the
+> Application Domain (**RQ1**): classify the domain of the
 developed CSAS application;
-- Agents (**RQ1**): identify agents within the collective with
+> Agents (**RQ1**): identify agents within the collective with
 learning abilities;
-- Autonomy (**RQ1**): determine whether agents act autonomously
+> Autonomy (**RQ1**): determine whether agents act autonomously
 or are supervised by external entities;
 - Knowledge Access (**RQ1**): assess the amount of information
 provided to an agent by its peers;
