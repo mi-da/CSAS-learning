@@ -63,7 +63,7 @@ are the second most explored domain. Other applications include traffic scenario
 The results for these 3 dimensions are reported in the following table.
 
 <p align="center">
-  <img height="300" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+  <img height="250" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
 ## Learning Purpose
