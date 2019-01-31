@@ -93,7 +93,7 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 These characteristics are the basis for a proposed framework composed of three dimensions. These dimensions provide a clear understanding of the assumptions that can be made about agents that are part of CSAS, and allow making design decisions on how agents should learn. scatter plot indicating how the CSAS applications are spread over the dimensions of the proposed 3D framework. Agents are typically considered selfish while varying levels of knowledge access are commonly explored. There is, however, limited work exploring agents with restricted autonomy. We only found six studies, located in corners, where agents have restricted autonomy. There is no study exploring selfish agents with maximal knowledge access or altruistic agents with minimal knowledge access. The lack of research in these areas of our 3D framework is interesting since these settings can naturally occur in realworld applications
 
 <p align="center">
-  <img height="310" src='images/Fig5.3dpapers-2.png'/>
+  <img height="280" src='images/Fig5.3dpapers-2.png'/>
 </p>
 
 ## Canonical View of the Learning Process of a CSAS Agent
@@ -102,7 +102,7 @@ Learning-based CSAS agent is designed to improve its ability to fulfil the learn
 environmental and internal observations as inputs and generates an action (leading to CSAS reconfiguration) as output. Internally, a utility function Ux is employed to characterise the desirability of the agent’s behaviour. Furthermore, the learning element contains a model (e.g., a classifier) and an optimisation (or controller) component that decides about the actions optimising the employed utility function.
 
 <p align="center">
-  <img height="120" src='images/Fig4.learningP2-2.png'/>
+  <img height="140" src='images/Fig4.learningP2-2.png'/>
 </p>
 
 1. Depending on the level of **autonomy**, the agent’s decisions may be overruled, changed, or blocked by external intervention; 
