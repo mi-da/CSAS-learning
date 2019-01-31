@@ -37,7 +37,7 @@ are the second most explored domain. Other applications include traffic scenario
 
 * Our analysis reveals that some agent-based models explicitly exchange learning information with each other. We call this concept **knowledge access**.
 
-* The behaviour of agents within a CSAS indicates whether an agent has the objective to maximise its own utility, i.e., it is selfish, to maximise the CSAS utility, i.e., it is altruistic, or adopts an intermediate role.
+* The **behaviour** of agents within a CSAS indicates whether an agent has the objective to maximise its own utility, i.e., it is selfish, to maximise the CSAS utility, i.e., it is altruistic, or adopts an intermediate role.
 
 The results for these 3 dimensions are reported in the following table.
 
