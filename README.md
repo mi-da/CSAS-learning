@@ -86,11 +86,14 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
   <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
-The results for these 3 dimensions are reported in the following table. These characteristics are the basis for a proposed framework composed of three dimensions.
+The results for these 3 dimensions are reported in the following table. These characteristics are the basis for a proposed framework composed of three dimensions. These dimensions provide a clear understanding of the
+assumptions that can be made about agents that are part of
+CSAS, and allow making design decisions on how agents
+should learn.
 
 
 <p align="center">
-  <img height="330" src='images/Fig3.3d.png'/>
+  <img height="250" src='images/Fig3.3d.png'/>
 </p>
 
 
