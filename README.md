@@ -26,6 +26,9 @@ Based on the analysis of the selected studies, we report here our findings.
 
 <center><img src='images/applicationDomain.png'></center>
 
+<p align="center">
+  <img src='images/applicationDomain.png'/>
+</p>
 
 
 ### From Domain to papers
