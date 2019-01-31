@@ -31,7 +31,12 @@ are the second most explored domain. Other applications include traffic scenario
   <img height="200" src='images/Fig2.ApplicationDomain.png'/>
 </p>
 
-## Autonomy
+## Autonomy, Knowledge Access, and Behaviour
+
+<p align="center">
+  <img height="200" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+</p>
+
 
 
 
