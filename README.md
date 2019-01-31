@@ -82,11 +82,17 @@ Our analysis of the selected CSAS studies targeted the identification of when ga
 
 * The **behaviour** of agents within a CSAS indicates whether an agent has the objective to maximise its own utility, i.e., it is selfish, to maximise the CSAS utility, i.e., it is altruistic, or adopts an intermediate role.
 
-The results for these 3 dimensions are reported in the following table.
-
 <p align="center">
   <img height="330" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
+
+The results for these 3 dimensions are reported in the following table. These characteristics are the basis for a proposed framework composed of three dimensions.
+
+
+<p align="center">
+  <img height="330" src='images/Fig3.3d'/>
+</p>
+
 
 <p align="center">
   <img height="330" src='images/Fig5.3dpapers-2.png'/>
