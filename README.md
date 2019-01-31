@@ -23,6 +23,9 @@ Our investigation is made by means of a systematic literature review (SLR) of 52
 Based on the analysis of the selected studies, we report here our findings.
 
 ## Application Domain
+The most dominant applications are cyber-physical systems (CPS) such as robotics, sensor systems and smart energy applications.
+This is inline with the increasing interest in CPS, especially in the area of self-adaptive systems. Network-based applications
+are the second most explored domain. Other applications include traffic scenarios, cooperative games, and market applications. Finally, four studies describe the solution to learning in CSAS using abstract multi-agent organisational models but do not report any concrete applications.
 
 <p align="center">
   <img height="200" src='images/Fig2.ApplicationDomain.png'/>
