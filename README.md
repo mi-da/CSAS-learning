@@ -90,7 +90,7 @@ The results for these 3 dimensions are reported in the following table. These ch
 
 
 <p align="center">
-  <img height="330" src='images/Fig3.3d'/>
+  <img height="330" src='images/Fig3.3d.png'/>
 </p>
 
 
