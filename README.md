@@ -34,7 +34,7 @@ are the second most explored domain. Other applications include traffic scenario
 ## Autonomy, Knowledge Access, and Behaviour
 
 <p align="center">
-  <img height="200" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
+  <img height="400" src='images/Tab3.AutonomyKnowledgeBehaviour.png'/>
 </p>
 
 
