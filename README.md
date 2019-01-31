@@ -24,9 +24,7 @@ Based on the analysis of the selected studies, we report here our findings.
 
 ## Application Domain
 
-![Domain](images/domaintopaper.png|height = 100px)
-
-<img src="Fig2.ApplicationDomain.png" width="48">
+![Domain](images/domaintopaper.png)
 
 ### From Domain to papers
 ![Vis](images/domaintopaper.png)
