@@ -25,7 +25,7 @@ Based on the analysis of the selected studies, we report here our findings.
 ## Application Domain
 
 <p align="center">
-  <img width="460" height="300" src='images/applicationDomain.png'/>
+  <img height="300" src='images/applicationDomain.png'/>
 </p>
 
 
