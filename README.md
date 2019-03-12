@@ -35,7 +35,7 @@ knowledge processing and refinement of learning models.
 # Research Method
 Our investigation is made by means of a systematic literature review (SLR) of 52 related research papers out of 215 preliminary candidates.
 
-**Replication package**: The following [link](https://drive.google.com/file/d/1WaTe8nxuzAPgegyTjkQoI6mwveCTOyTt/view?usp=sharing) points to the replication document.
+**Replication package**: The following [link](https://drive.google.com/file/d/1WaTe8nxuzAPgegyTjkQoI6mwveCTOyTt/view?usp=sharing) points to the replication document and the final list of 52 selected studied for the review.
 
 **Collected Data**: The following [link](https://docs.google.com/spreadsheets/d/1tD9yaWa7JfokEHNGdw5sMem09e-y5FuAhfuI7Av2VYw/edit#gid=1392946669) points to the analysed literature and corresponding data collected in a Google sheet.
 
